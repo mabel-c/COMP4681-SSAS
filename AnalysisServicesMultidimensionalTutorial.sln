@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "AnalysisServicesMultidimensionalTutorial", "AnalysisServicesMultidimensionalTutorial\AnalysisServicesMultidimensionalTutorial.dwproj", "{15B1055B-5A90-434D-B0C3-FBBB8518F7FE}"
+EndProject
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Report Project", "..\Report Project\Report Project.rptproj", "{3FDDB03D-85B9-44C9-A448-1674FB41FE78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Development|Default = Development|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15B1055B-5A90-434D-B0C3-FBBB8518F7FE}.Debug|Default.ActiveCfg = Development
+		{15B1055B-5A90-434D-B0C3-FBBB8518F7FE}.Debug|Default.Build.0 = Development
+		{15B1055B-5A90-434D-B0C3-FBBB8518F7FE}.Debug|Default.Deploy.0 = Development
+		{15B1055B-5A90-434D-B0C3-FBBB8518F7FE}.DebugLocal|Default.ActiveCfg = Development
+		{15B1055B-5A90-434D-B0C3-FBBB8518F7FE}.DebugLocal|Default.Build.0 = Development
+		{15B1055B-5A90-434D-B0C3-FBBB8518F7FE}.DebugLocal|Default.Deploy.0 = Development
+		{15B1055B-5A90-434D-B0C3-FBBB8518F7FE}.Development|Default.ActiveCfg = Development
+		{15B1055B-5A90-434D-B0C3-FBBB8518F7FE}.Development|Default.Build.0 = Development
+		{15B1055B-5A90-434D-B0C3-FBBB8518F7FE}.Development|Default.Deploy.0 = Development
+		{15B1055B-5A90-434D-B0C3-FBBB8518F7FE}.Release|Default.ActiveCfg = Development
+		{15B1055B-5A90-434D-B0C3-FBBB8518F7FE}.Release|Default.Build.0 = Development
+		{15B1055B-5A90-434D-B0C3-FBBB8518F7FE}.Release|Default.Deploy.0 = Development
+		{3FDDB03D-85B9-44C9-A448-1674FB41FE78}.Debug|Default.ActiveCfg = Debug
+		{3FDDB03D-85B9-44C9-A448-1674FB41FE78}.Debug|Default.Build.0 = Debug
+		{3FDDB03D-85B9-44C9-A448-1674FB41FE78}.Debug|Default.Deploy.0 = Debug
+		{3FDDB03D-85B9-44C9-A448-1674FB41FE78}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{3FDDB03D-85B9-44C9-A448-1674FB41FE78}.DebugLocal|Default.Build.0 = DebugLocal
+		{3FDDB03D-85B9-44C9-A448-1674FB41FE78}.DebugLocal|Default.Deploy.0 = DebugLocal
+		{3FDDB03D-85B9-44C9-A448-1674FB41FE78}.Development|Default.ActiveCfg = DebugLocal
+		{3FDDB03D-85B9-44C9-A448-1674FB41FE78}.Development|Default.Build.0 = DebugLocal
+		{3FDDB03D-85B9-44C9-A448-1674FB41FE78}.Development|Default.Deploy.0 = DebugLocal
+		{3FDDB03D-85B9-44C9-A448-1674FB41FE78}.Release|Default.ActiveCfg = Release
+		{3FDDB03D-85B9-44C9-A448-1674FB41FE78}.Release|Default.Build.0 = Release
+		{3FDDB03D-85B9-44C9-A448-1674FB41FE78}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F6D6FBF-4485-47C6-91C9-D68A91012F24}
+	EndGlobalSection
+EndGlobal
